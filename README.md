@@ -9,4 +9,4 @@ Search.py is for searching interface.
 
 Semantic.py is a function file including a group of semantic processing functions.
 
-For any questions you can contact me by E-mail: yzdich@gmail.com
+For any questions you can contact me by E-mail: dichild@mail.ru
